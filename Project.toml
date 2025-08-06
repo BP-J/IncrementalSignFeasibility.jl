@@ -37,7 +37,7 @@ Printf = "1"
 Random = "1"
 RowEchelon = "0.1, 0.9"
 StatsBase = "0.1, 0.9"
-Suppressor = "0.1 0.9"
+Suppressor = "0.1, 0.9"
 TickTock = "1"
 
 [extras]
