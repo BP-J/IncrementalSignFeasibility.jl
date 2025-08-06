@@ -23,6 +23,22 @@ TickTock = "9ff05d80-102d-5586-aa04-3a8bd1a90d20"
 
 [compat]
 julia = "1"
+Combinatorics = "1"
+DataFrames = "1"
+Dates = "1"
+DelimitedFiles = "1"
+ElasticArrays = "1"
+GLPK = "1"
+Gurobi = "1"
+JuMP = "1"
+LinearAlgebra = "1"
+LinearAlgebraX = "0.1, 0.9"
+Printf = "1"
+Random = "1"
+RowEchelon = "0.1, 0.9"
+StatsBase = "0.1, 0.9"
+Suppressor = "0.1 0.9"
+TickTock = "1"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
